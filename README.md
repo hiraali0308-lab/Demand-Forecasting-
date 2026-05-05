@@ -31,5 +31,5 @@ This project focuses on predicting product demand using machine learning techniq
 ##  Results
 Different models were applied and evaluated using accuracy and confusion matrix. Random Forest and Extra Trees showed the best performance.
 
-## 🎯 Objective
+##  Objective
 To analyze sales data and build machine learning models for accurate demand prediction.
